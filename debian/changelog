@@ -1,3 +1,9 @@
+bazel (0.5.2-0instart2) precise; urgency=low
+
+  * Add unzip, zip dependencies
+
+ -- Michael Weber <mweber@instartlogic.com>  Tue, 18 Jul 2017 23:15:24 -0700
+
 bazel (0.5.2-0instart1) precise; urgency=low
 
   * Use bazel dist to compile (due to bootstrapping issues)
